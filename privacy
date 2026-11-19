@@ -1,64 +1,45 @@
-1. Introduction
-Welcome to Habity - Habit Tracker ("we," "our," "us," or the "App"). We are committed to protecting your privacy and handling any personal information we obtain from you with care and transparency. This Privacy Policy is designed to inform you about how we collect, use, and safeguard your information when you use the App.
+Privacy Policy for Habity
 
-2. Information We Collect
-2.1 Personal Information
-While Habity - Habit Tracker is designed primarily as an offline productivity tool, we may collect limited information under certain circumstances, such as:
+Last updated: 19 November 2026.
 
-Information you voluntarily provide (e.g., when contacting customer support)
+Habity is published by KAWI SOFTWARE AS, Norway ("we"). Contact: andreas@kawisoftware.com.
 
-Device details (e.g., type of device, operating system)
+What stays on your device
+Your habits, check-ins, streak, drops, trophies, the name you give your companion and your
+settings are stored on your device only. Habity has no account and no sign-up, and we do not
+receive this content. If you delete the app, this data is deleted with it.
 
-Basic usage data and performance analytics (if analytics are enabled)
+What we collect
+- Usage analytics (PostHog). Anonymous events about how the app is used, for example that
+  a habit was completed, an onboarding step was viewed or a screen was opened, together with
+  device type, operating system version, app version, language and country. Events are tied to
+  a random identifier created on your device. They do not contain habit names or anything you type.
+- Purchases (Apple, Google and RevenueCat). Purchases are processed by the App Store or
+  Google Play. We use RevenueCat to check whether a subscription is active. RevenueCat receives a
+  random app user identifier, the product bought, the time and the store receipt. We never see
+  your card or payment details.
 
-2.2 Non-Personal Information
-We may collect non-identifiable information, such as:
+We do not show ads, we do not sell personal data, and we do not track you across other
+companies' apps or websites.
 
-Aggregated usage statistics
+Notifications
+If you allow notifications, reminders are scheduled on your device. No notification content is
+sent to us.
 
-Anonymous interaction data
+Why we process this data
+To run and improve the app (legitimate interest) and to deliver what you buy (contract).
 
-General demographic trends (not linked to any individual user)
+How long we keep it
+Analytics events are kept for up to 24 months. Purchase records are kept as long as accounting
+rules require.
 
-3. How We Use Your Information
-We may use the collected information to:
+Your rights
+Depending on where you live, you can ask for access to, correction of or deletion of personal
+data we hold about you, and you can object to processing. Write to the contact address above.
+You can also complain to your data protection authority (in Norway: Datatilsynet).
 
-Operate, maintain, and improve the App
+Children
+Habity is not directed at children under 13 and we do not knowingly collect their personal data.
 
-Respond to your messages, questions, or support requests
-
-Analyze overall usage patterns and trends
-
-Notify you of technical updates or support-related information
-
-Prevent fraudulent activity and ensure compliance with legal requirements
-
-4. Data Storage and Security
-We take reasonable technical and organizational measures to protect your data. However, no method of data transmission or electronic storage is entirely secure. You use the App and share data at your own risk.
-
-5. Third-Party Services
-Habity - Habit Tracker may include links to third-party websites or tools. We are not responsible for the privacy practices or content of such external services.
-
-6. Children's Privacy
-The App is not intended for children under the age of 13. We do not knowingly collect any personal information from users under 13 years of age. If we learn that such data has been collected, we will delete it promptly.
-
-7. Changes to This Privacy Policy
-We may revise this Privacy Policy from time to time. Updates will be posted in the app or on the corresponding app store listing, and the "Last updated" date will reflect the most recent version. You are advised to review the policy regularly.
-
-8. Your Rights
-Depending on your jurisdiction, you may have the right to access, correct, or request deletion of your personal data. Please contact us directly to make such a request.
-
-9. Data Retention
-We retain data only for as long as it is necessary for the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
-
-10. International Data Transfers
-Your data may be transferred to and stored in locations outside of your country or jurisdiction. By using the App, you consent to such transfers, even where local data protection laws may differ.
-
-11. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-Habity - Habit Tracker
-📧 andreas@kawisoftware.com
-
-By using Habity - Habit Tracker, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
-
+Changes
+We will post changes on this page and update the date above.
